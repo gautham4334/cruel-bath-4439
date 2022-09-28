@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.topnav{
+    background-color: #0398DC;
+    
+}
+.topnav{
+    display: flex;
+    justify-content: space-around;
+}
+.topnav>div:nth-child(2){
+    color: white;
+    display: flex;
+    padding-top: 5px;
+    gap: 5px;
+    
+}
+.topnav>div:nth-child(3){
+    color: white;
+    display: flex;
+    gap: 10px;
+}
+#fan{
+    color: white;
+    display: flex;
+
+}
+#topnavimg{
+    width: 50%;
+    padding-top: 10px;
+}
+#topnavimg1{
+    width: 30px;
+}
